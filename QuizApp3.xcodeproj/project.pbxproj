@@ -12,11 +12,11 @@
 		2C0B5C071C7BE8C900630645 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5C051C7BE8C900630645 /* Main.storyboard */; };
 		2C0B5C091C7BE8C900630645 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5C081C7BE8C900630645 /* Assets.xcassets */; };
 		2C0B5C0C1C7BE8C900630645 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5C0A1C7BE8C900630645 /* LaunchScreen.storyboard */; };
-		2C0B5C171C7BEA7400630645 /* correct2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5C131C7BEA7400630645 /* correct2.mp3 */; };
-		2C0B5C181C7BEA7400630645 /* incorrect1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5C141C7BEA7400630645 /* incorrect1.mp3 */; };
-		2C0B5C191C7BEA7400630645 /* ng.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5C151C7BEA7400630645 /* ng.png */; };
-		2C0B5C1A1C7BEA7400630645 /* ok.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5C161C7BEA7400630645 /* ok.png */; };
 		2C0B5C1E1C7C341A00630645 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C0B5C1D1C7C341A00630645 /* AudioToolbox.framework */; };
+		2C0B5CAA1C7FE34F00630645 /* correct2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5CA61C7FE34F00630645 /* correct2.mp3 */; };
+		2C0B5CAB1C7FE34F00630645 /* incorrect1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5CA71C7FE34F00630645 /* incorrect1.mp3 */; };
+		2C0B5CAC1C7FE34F00630645 /* ng.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5CA81C7FE34F00630645 /* ng.png */; };
+		2C0B5CAD1C7FE34F00630645 /* ok.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C0B5CA91C7FE34F00630645 /* ok.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,11 +27,11 @@
 		2C0B5C081C7BE8C900630645 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C0B5C0B1C7BE8C900630645 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C0B5C0D1C7BE8C900630645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2C0B5C131C7BEA7400630645 /* correct2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = correct2.mp3; path = "../../../../Downloads/QuizApp2-master/QuizApp2/correct2.mp3"; sourceTree = "<group>"; };
-		2C0B5C141C7BEA7400630645 /* incorrect1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = incorrect1.mp3; path = "../../../../Downloads/QuizApp2-master/QuizApp2/incorrect1.mp3"; sourceTree = "<group>"; };
-		2C0B5C151C7BEA7400630645 /* ng.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ng.png; path = "../../../../Downloads/QuizApp2-master/QuizApp2/ng.png"; sourceTree = "<group>"; };
-		2C0B5C161C7BEA7400630645 /* ok.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ok.png; path = "../../../../Downloads/QuizApp2-master/QuizApp2/ok.png"; sourceTree = "<group>"; };
 		2C0B5C1D1C7C341A00630645 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		2C0B5CA61C7FE34F00630645 /* correct2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = correct2.mp3; sourceTree = "<group>"; };
+		2C0B5CA71C7FE34F00630645 /* incorrect1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = incorrect1.mp3; sourceTree = "<group>"; };
+		2C0B5CA81C7FE34F00630645 /* ng.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ng.png; sourceTree = "<group>"; };
+		2C0B5CA91C7FE34F00630645 /* ok.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ok.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,10 +72,10 @@
 				2C0B5C081C7BE8C900630645 /* Assets.xcassets */,
 				2C0B5C0A1C7BE8C900630645 /* LaunchScreen.storyboard */,
 				2C0B5C0D1C7BE8C900630645 /* Info.plist */,
-				2C0B5C131C7BEA7400630645 /* correct2.mp3 */,
-				2C0B5C141C7BEA7400630645 /* incorrect1.mp3 */,
-				2C0B5C151C7BEA7400630645 /* ng.png */,
-				2C0B5C161C7BEA7400630645 /* ok.png */,
+				2C0B5CA61C7FE34F00630645 /* correct2.mp3 */,
+				2C0B5CA71C7FE34F00630645 /* incorrect1.mp3 */,
+				2C0B5CA81C7FE34F00630645 /* ng.png */,
+				2C0B5CA91C7FE34F00630645 /* ok.png */,
 			);
 			path = QuizApp3;
 			sourceTree = "<group>";
@@ -139,12 +139,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C0B5C1A1C7BEA7400630645 /* ok.png in Resources */,
+				2C0B5CAD1C7FE34F00630645 /* ok.png in Resources */,
 				2C0B5C0C1C7BE8C900630645 /* LaunchScreen.storyboard in Resources */,
 				2C0B5C091C7BE8C900630645 /* Assets.xcassets in Resources */,
-				2C0B5C191C7BEA7400630645 /* ng.png in Resources */,
-				2C0B5C181C7BEA7400630645 /* incorrect1.mp3 in Resources */,
-				2C0B5C171C7BEA7400630645 /* correct2.mp3 in Resources */,
+				2C0B5CAC1C7FE34F00630645 /* ng.png in Resources */,
+				2C0B5CAB1C7FE34F00630645 /* incorrect1.mp3 in Resources */,
+				2C0B5CAA1C7FE34F00630645 /* correct2.mp3 in Resources */,
 				2C0B5C071C7BE8C900630645 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -305,6 +305,7 @@
 				2C0B5C121C7BE8C900630645 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
